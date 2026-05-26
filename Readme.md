@@ -1,5 +1,3 @@
-# python_for_devops
-
 # env vars
 
 what does this env vars?
