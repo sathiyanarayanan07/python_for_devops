@@ -10,4 +10,5 @@ env vars means  store the sensitive information  outside of your python code so 
  .env
 
 DB_PASSWORD=super_secret_password_123
+
 API_KEY=xyz_987654321
